@@ -1,0 +1,1 @@
+使用 git-commit-generator 为当前所有未提交的变更生成 commit
